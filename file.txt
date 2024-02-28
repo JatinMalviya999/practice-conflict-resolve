@@ -1,4 +1,4 @@
 line1
-master
+feature
 line3
 line4
