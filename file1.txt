@@ -1,4 +1,4 @@
 line1 
-bug1 
+Bug2 
 line3 
 line4
