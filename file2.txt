@@ -1,4 +1,4 @@
-object1
+master
 
 object2
 
